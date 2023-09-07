@@ -1,0 +1,6 @@
+/Users/hf/Documents/workspace/product-management-microservices/Inventory-Service/src/main/java/com/raldes/inventoryservice/repository/InventoryRepository.java
+/Users/hf/Documents/workspace/product-management-microservices/Inventory-Service/src/main/java/com/raldes/inventoryservice/model/Inventory.java
+/Users/hf/Documents/workspace/product-management-microservices/Inventory-Service/src/main/java/com/raldes/inventoryservice/controller/InventoryController.java
+/Users/hf/Documents/workspace/product-management-microservices/Inventory-Service/src/main/java/com/raldes/inventoryservice/InventoryServiceApplication.java
+/Users/hf/Documents/workspace/product-management-microservices/Inventory-Service/src/main/java/com/raldes/inventoryservice/dto/InventoryResponse.java
+/Users/hf/Documents/workspace/product-management-microservices/Inventory-Service/src/main/java/com/raldes/inventoryservice/service/InventoryService.java

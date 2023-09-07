@@ -1,0 +1,7 @@
+com/raldes/inventoryservice/repository/InventoryRepository.class
+com/raldes/inventoryservice/service/InventoryService.class
+com/raldes/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/raldes/inventoryservice/InventoryServiceApplication.class
+com/raldes/inventoryservice/dto/InventoryResponse.class
+com/raldes/inventoryservice/controller/InventoryController.class
+com/raldes/inventoryservice/model/Inventory.class
